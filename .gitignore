@@ -2,3 +2,6 @@
 cmg/cmg.vcxproj
 cmg/cmg.vcxproj.user
 cmg/cmg.vcxproj.filters
+bin/
+bin-int/
+*.user
